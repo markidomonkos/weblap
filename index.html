@@ -11,6 +11,7 @@
                 <div class="banner-btn">
                     <a href="ora.html"><span></span>Órarend</a>
                     <a href="https://github.com/markidomonkos"><span></span>GitHub</a>
+                    <a href="https://github.com/markidomonkos/Phyton-"><span></span>Github Játékok</a>
                     <a href="https://www.youtube.com/watch?v=eX2qFMC8cFo"><span></span>Mókás macskás videók</a>
                 </div>
             </div>
